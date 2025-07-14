@@ -16,7 +16,7 @@ VIXI is an AI-powered assistant web app that lets you interact via text or voice
 
 - [Node.js](https://nodejs.org/) (v18+ recommended)
 - [pnpm](https://pnpm.io/) or [npm](https://www.npmjs.com/)
-
+- [groq api key](https://groq.com)
 ### Installation
 
 1. Clone the repository:
